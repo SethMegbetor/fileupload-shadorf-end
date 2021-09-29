@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "470566489460",
+    "project_id": "logingamah",
+    "storage_bucket": "logingamah.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:470566489460:android:445dda2782894ddb75b021",
+        "android_client_info": {
+          "package_name": "com.example.gamahapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "470566489460-dj22mf6cmau7bir1dohsmog5vcj6mu78.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0pSbrIwPDCBHEe_qX7zDnXauXmj3bWfE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "470566489460-dj22mf6cmau7bir1dohsmog5vcj6mu78.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
